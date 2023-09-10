@@ -1,0 +1,1 @@
+SELECT nascimento FROM autores WHERE DATE < 1900;
