@@ -1,0 +1,1 @@
+select aluno_id from matriculas where curso = 'Engenharia de Software';
