@@ -1,0 +1,1 @@
+select produto, receita, id from vendas where receita > 10000.00;
